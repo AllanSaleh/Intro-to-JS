@@ -2,6 +2,8 @@
 let name1 = "Barney"; //String
 let num = 19; // this is number
 
+console.log("Allan & " + name1 + " are an instructor")
+
 console.log(`Hello, my name is ${name1} and I am ${num} years old`); //String Template Literal
 console.log("This is another line");
 
